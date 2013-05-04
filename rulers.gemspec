@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = "joshua.scott@gmail.com"
   spec.description   = %q{A Rack-based web framework but with extra awesome!}
   spec.summary       = %q{A Rack-based web framework}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.cm/joshuawscott/"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
